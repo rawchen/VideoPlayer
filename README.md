@@ -3,5 +3,5 @@
 
 ## 项目截图
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/VideoPlayer/1.png)
+![](https://raw.githubusercontent.com/yoyling/VideoPlayer/master/screenshots/1.png)
 
