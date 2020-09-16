@@ -3,5 +3,5 @@
 
 ## 项目截图
 
-![](https://raw.githubusercontent.com/yoyling/VideoPlayer/master/screenshots/1.png)
+![](https://i.loli.net/2020/09/16/SxEnBe9rHVvhiA6.png)
 
